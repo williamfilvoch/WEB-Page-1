@@ -76,7 +76,7 @@
  <h2> :pushpin: Link: <a href="https://williamfilvoch.github.io/Web-Page-Desafio-1/" target="_blank" > Web Page Desafio 1 </a> </h2>
 <br>
 <br>
- <img src="https://github.com/williamfilvoch/Projeto-WEB-Pages/blob/master/Web%20Page%20Desafio%201/assets/girl-dog.png" />
+ <img src="https://github.com/williamfilvoch/WEB-Page-1/blob/master/assets/girl-dog.png" />
 
 
 </div>
