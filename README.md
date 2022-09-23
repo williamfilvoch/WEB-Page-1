@@ -31,8 +31,6 @@
  <br>
   :small_orange_diamond: Imagens;
  <br>
- <br>
- :small_orange_diamond: Técnicas de SEO;
   </h3>
 </div>
  
